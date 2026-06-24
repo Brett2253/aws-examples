@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Ruby
+.bundle/
+vendor/bundle/
+*.gem
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temp files
+temp/
+*.tmp
